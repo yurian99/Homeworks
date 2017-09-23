@@ -1,3 +1,4 @@
+//program of calculate the wage of the user
 #include <iostream>
 using namespace std;
 
